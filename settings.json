@@ -1,21 +1,21 @@
 {
-  "name": "AFK Bot",
+  "name": "Dreambot1",
   "bot-account": {
     "username": "Dream1",
-    "password": "",
+    "password": "123567",
     "type": "offline"
   },
   "server": {
     "ip": "StableSMP-Fbdj.aternos.me",
-    "port": 59333",
+    "port": 59333,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 58,
+    "y": 49,
+    "z": -20
   },
   "utils": {
     "auto-auth": {
