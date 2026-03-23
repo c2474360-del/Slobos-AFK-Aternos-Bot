@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "StableSMP-Fbdj.aternos.me",
-    "port": 59333,
+    "port": 59333",
     "version": "",
     "try-creative": false
   },
